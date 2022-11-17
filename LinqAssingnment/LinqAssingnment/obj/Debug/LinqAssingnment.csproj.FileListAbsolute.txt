@@ -1,0 +1,8 @@
+C:\Users\alekhya\source\repos\LinqAssingnment\LinqAssingnment\bin\Debug\LinqAssingnment.exe.config
+C:\Users\alekhya\source\repos\LinqAssingnment\LinqAssingnment\bin\Debug\LinqAssingnment.exe
+C:\Users\alekhya\source\repos\LinqAssingnment\LinqAssingnment\bin\Debug\LinqAssingnment.pdb
+C:\Users\alekhya\source\repos\LinqAssingnment\LinqAssingnment\obj\Debug\LinqAssingnment.csproj.AssemblyReference.cache
+C:\Users\alekhya\source\repos\LinqAssingnment\LinqAssingnment\obj\Debug\LinqAssingnment.csproj.SuggestedBindingRedirects.cache
+C:\Users\alekhya\source\repos\LinqAssingnment\LinqAssingnment\obj\Debug\LinqAssingnment.csproj.CoreCompileInputs.cache
+C:\Users\alekhya\source\repos\LinqAssingnment\LinqAssingnment\obj\Debug\LinqAssingnment.exe
+C:\Users\alekhya\source\repos\LinqAssingnment\LinqAssingnment\obj\Debug\LinqAssingnment.pdb
