@@ -1,0 +1,8 @@
+C:\Users\alekhya\source\repos\LINQ-Queries\LINQ-Queries\bin\Debug\LINQ-Queries.exe.config
+C:\Users\alekhya\source\repos\LINQ-Queries\LINQ-Queries\bin\Debug\LINQ-Queries.exe
+C:\Users\alekhya\source\repos\LINQ-Queries\LINQ-Queries\bin\Debug\LINQ-Queries.pdb
+C:\Users\alekhya\source\repos\LINQ-Queries\LINQ-Queries\obj\Debug\LINQ-Queries.csproj.AssemblyReference.cache
+C:\Users\alekhya\source\repos\LINQ-Queries\LINQ-Queries\obj\Debug\LINQ-Queries.csproj.SuggestedBindingRedirects.cache
+C:\Users\alekhya\source\repos\LINQ-Queries\LINQ-Queries\obj\Debug\LINQ-Queries.csproj.CoreCompileInputs.cache
+C:\Users\alekhya\source\repos\LINQ-Queries\LINQ-Queries\obj\Debug\LINQ-Queries.exe
+C:\Users\alekhya\source\repos\LINQ-Queries\LINQ-Queries\obj\Debug\LINQ-Queries.pdb
